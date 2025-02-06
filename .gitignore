@@ -1,0 +1,21 @@
+# VS Code settings
+.vscode/*
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Build output
+out/
+
+# TypeScript build artifacts
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
